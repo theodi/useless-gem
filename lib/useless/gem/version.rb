@@ -1,5 +1,5 @@
 module Useless
   module Gem
-    VERSION = "0.1.0"
+    VERSION = "9.1.7"
   end
 end
