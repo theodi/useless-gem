@@ -1,4 +1,4 @@
-
+# Change Log
 
 ## [9.1.7](https://github.com/theodi/useless-gem/tree/9.1.7) (2016-03-09)
 
